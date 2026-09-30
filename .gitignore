@@ -1,0 +1,5 @@
+_admin/backups/
+__pycache__/
+*.tmp
+.DS_Store
+Thumbs.db
